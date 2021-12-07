@@ -1,0 +1,11 @@
+- commande oe: symfony (misy an'izany ve?) (dossier2 petit 8)
+- symfony serve (misy an'izany ve ny lancement symfony 5 ?)(dossier2 petit 8)
+- asset ???
+- server:log, CLI ? (misy anizany ve?)(dossier2 petit 8)
+- server:console (misy anizany ve?)(dossier2 petit 8) (dossier3 petit 13) 
+- diniho : php/bin console make:auth
+- make auth, make command, make:message, make docker:database (misy anizany ve?)(dossier2 petit 8)
+- switch_user: true ?(dossier3 petit 13) 
+- 'mysql workbench' instaleo (visualisation BD)
+- Tsy azoko 019 - 020 (athentification avec redirection)
+- Tsy mety miseho ny formulaire de modif ny mdp(dossier3 petit 21)
